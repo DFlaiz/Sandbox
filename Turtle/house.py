@@ -28,7 +28,7 @@ def house(len):
 
 
 def main():
-    turtle.speed(6)
+    turtle.speed(7)
     house(100)
     move(200)
     turtle.color("blue")
